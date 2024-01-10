@@ -1,0 +1,35 @@
+.title{
+    color: brown;
+    text-align: center;
+    font-size: large;
+    font-weight: 800;
+}
+body{
+    background-color: silver;
+}
+#btn{
+    color: blue;
+    cursor: pointer;
+}
+#btn :hover{
+    background-color: red;
+}
+.select{
+    color:crimson;
+    font-size: large;
+    font-weight: 500;
+    font-style: oblique;
+}
+#nxt{
+    color: blue;
+    cursor: pointer;
+    margin-left: 91%;
+}
+#nxt :focus{
+    background-color: rgb(39, 12, 20);
+    border: 2px solid red;
+}
+#pre{
+    color: blue;
+    cursor: pointer;
+}    
